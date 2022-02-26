@@ -1,1 +1,11 @@
 size(600,600);
+fill(255,0,0,100);
+ellipse(100,100, 50,50);
+fill(0,255,0,100);
+ellipse(90,80, 50,50);
+fill(0,0,255,100);
+ellipse(80,90, 50,50);
+fill(0,0,0,100);
+text("dead inside", 100,100);
+text("memes", 90,80);
+text("terreerble hearing",70,90);
